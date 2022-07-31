@@ -2,6 +2,6 @@
 using LeetCode;
 using LeetCode.DataStructure;
 Console.WriteLine("Hello, World!");
-var res = MaximumSubarray.MaxSubArray(new int[] { -2, 1});
+var res = TwoSumSolution.TwoSum(new int[] { 3, 2, 3 }, 6);
 Console.Write(res);
 Console.ReadLine();
