@@ -2,6 +2,6 @@
 using LeetCode;
 using LeetCode.DataStructure;
 Console.WriteLine("Hello, World!");
-var res = TwoSumSolution.TwoSum(new int[] { 3, 2, 3 }, 6);
-Console.Write(res);
+var res = IntersectionOfTwoArray.Intersect(new int[] {4}, new int[] { 3, 1, 2 });
+Console.WriteLine(res);
 Console.ReadLine();
